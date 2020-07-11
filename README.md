@@ -25,44 +25,9 @@ The folder of the examples: https://github.com/walidamriou/LokumPython/
 - 002 Variables and Data types :heavy_check_mark: 
 - 003 Strings :heavy_check_mark:
 - 004 Operators :heavy_check_mark:
-- 003 Array  
-- 008 Slice  
-- 009 Map  
-- 010 New  
-- 011 Control Statements     
-  - 001 If  
-  - 002 Goto  
-  - 003 For  
-  - 004 Switch  
-- 012 Functions  
-  - 001 On return   
-  - 002 Multi-Value return   
-  - 003 Variadic arguments  
-  - 004 Pass by pointers  
-  - 005 Pass by Valuers   
-  - 006 Defers   
-  - 007 Function as valuers and types  
-  - 008 Panic  
-  - 009 Recover   
-- 013 Init Function  
-- 014 Import by Dot  
-- 015 import by Aias  
-- 016 Import by _ operator  
-- 017 Struct  
-  - 001 Decleration   
-  - 002 Embedded one to other  
-  - 003 Embedded types    
-* __002 Object Oriented__
-- 001 Methodes  
-- 002 Custom data types  
-- 003 Use pointer as receiver  
-- 004 Inhertance of method  
-...
-* __003 web technologies__
-- 001 Basic web server  
-- 002 HTTP methods  
-  - 001 POST and GET  
-- 003 Prase html file 
+
+
+
 ### Website of the project:  
 https://lokumPython.walidamriou.com/
 
