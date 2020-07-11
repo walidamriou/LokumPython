@@ -22,16 +22,8 @@ The folder of the examples: https://github.com/walidamriou/LokumPython/
 #### Contents of the examples:
 * __001 Getting Started__  
 - 001 Hello World :heavy_check_mark:	    
-- 002 Variables :heavy_check_mark:     
-- 003 Constants     
-- 004 Data types  
-  - 001 Boolean  
-  - 002 Numerical Integers  
-  - 003 Numerical Fraction  
-  - 004 Numerical Complex  
-  - 005 String  
-  - 006 Error  
-- 005 Define by group  
+- 002 Variables and Data types :heavy_check_mark:     
+- 003 Constants       
 - 006 iota enumerate   
 - 007 Array  
 - 008 Slice  
