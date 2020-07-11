@@ -25,7 +25,7 @@ The folder of the examples: https://github.com/walidamriou/LokumPython/
 - 002 Variables and Data types :heavy_check_mark: 
 - 003 Strings :heavy_check_mark:
 - 004 Operators :heavy_check_mark:
-
+- 005 Lists :heavy_check_mark:
 
 
 ### Website of the project:  
