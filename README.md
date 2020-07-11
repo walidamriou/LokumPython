@@ -5,7 +5,6 @@ Python is a widely used high-level programming language for general-purpose prog
 
 ### Examples: 
 This mark :heavy_check_mark: mean the example is available.  
-The folder of the examples: https://github.com/walidamriou/LokumPython/  
 :warning: If there are any issues in the scripts of the examples write an issue in: [issues](https://github.com/walidamriou/LokumPython/issues "issues")   
 
 ### How could use it?
@@ -29,7 +28,7 @@ The folder of the examples: https://github.com/walidamriou/LokumPython/
 
 
 ### Website of the project:  
-https://lokumPython.walidamriou.com/
+https://LokumPython.walidamriou.com/
 
 <p align="center">
   <img width="50%" height="50%" src="https://github.com/walidamriou/LokumGoLang/blob/master/img/anim.png">
