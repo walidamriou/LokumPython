@@ -13,9 +13,8 @@
 
  ******************************************************************** 
 """
-# The declaration of the variables in Python like that:  <variable name> = <value>
 
-print('LokumPython')
+# The declaration of the variables in Python like that:  <variable name> = <value>
 
 # Integer
 a = 2
@@ -46,4 +45,5 @@ e = None
 print(e)
 
 print(' ')
+
 
