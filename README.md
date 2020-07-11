@@ -9,14 +9,14 @@ The folder of the examples: https://github.com/walidamriou/LokumPython/
 :warning: If there are any issues in the scripts of the examples write an issue in: [issues](https://github.com/walidamriou/LokumPython/issues "issues")   
 
 ### How could use it?
-1- Install python 3 from here: https://www.python.org/downloads
-2- Clone the project (by this methode: https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository).
-3- Open VScode (install it from here: https://code.visualstudio.com/)
-4- Go to: File > Add folder to project to Workspace > choose folder of the project (LokumPython)
-5- Open the folder that you want to start and run terminal in it.
-6- Write: python main.py 
+1- Install python 3 from here: https://www.python.org/downloads .  
+2- Clone the project (by this methode: https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository) .    
+3- Open VScode (install it from here: https://code.visualstudio.com/) .  
+4- Go to: File > Add folder to project to Workspace > choose folder of the project (LokumPython) .  
+5- Open the folder that you want to start and run terminal in it.  
+6- Write: python main.py   
 <p align="center">
-  <img width="50%" height="50%" src="https://github.com/walidamriou/LokumPython/blob/master/How_can_you_use_it.png">
+  <img width="80%" height="80%" src="https://github.com/walidamriou/LokumPython/blob/master/How_can_you_use_it.png">
 </p>
 
 #### Contents of the examples:
