@@ -1,5 +1,5 @@
 # LokumPython
-To Learn Go Programming Language with small programs examples  
+To Learn Python Programming Language with small programs examples  
 
 Python is a widely used high-level programming language for general-purpose programming, created by Guido vannRossum and first released in 1991. Python features a dynamic type system and automatic memory management and supports multiple programming paradigms, including object-oriented, imperative, functional programming, and procedural styles. It has a large and comprehensive standard library.
 
@@ -11,7 +11,7 @@ The folder of the examples: https://github.com/walidamriou/LokumPython/
 #### Contents of the examples:
 * __001 Getting Started__  
 - 001 Hello World :heavy_check_mark:	    
-- 002 Variables     
+- 002 Variables :heavy_check_mark:     
 - 003 Constants     
 - 004 Data types  
   - 001 Boolean  
