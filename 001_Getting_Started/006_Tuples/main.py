@@ -14,7 +14,7 @@
  ******************************************************************** 
 """
 
-# basic
+# basics
 a = ("walid1", "walid2", "walid3") # create Tuple
 # use tuple()
 a = tuple(("walid1", "walid2", "walid3"))
