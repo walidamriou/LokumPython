@@ -15,6 +15,9 @@ The folder of the examples: https://github.com/walidamriou/LokumPython/
 4- Go to: File > Add folder to project to Workspace > choose folder of the project (LokumPython)
 5- Open the folder that you want to start and run terminal in it.
 6- Write: python main.py 
+<p align="center">
+  <img width="50%" height="50%" src="https://github.com/walidamriou/LokumPython/blob/master/How_can_you_use_it.png">
+</p>
 
 #### Contents of the examples:
 * __001 Getting Started__  
