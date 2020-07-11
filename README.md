@@ -23,9 +23,7 @@ The folder of the examples: https://github.com/walidamriou/LokumPython/
 * __001 Getting Started__  
 - 001 Hello World :heavy_check_mark:	    
 - 002 Variables and Data types :heavy_check_mark:     
-- 003 Constants       
-- 006 iota enumerate   
-- 007 Array  
+- 003 Array  
 - 008 Slice  
 - 009 Map  
 - 010 New  
