@@ -61,3 +61,11 @@ k.sort() # Sorts the list
 print(k)
 print(' ')
 
+"""
+Note: There are four collection data types in the Python programming language:
+
+* List : a collection which is ordered and changeable. Allows duplicate members.
+* Tuple : a collection which is ordered and unchangeable. Allows duplicate members.
+* Set : a collection which is unordered and unindexed. No duplicate members.
+* Dictionary : a collection which is unordered, changeable and indexed. No duplicate members.
+"""
