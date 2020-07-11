@@ -41,4 +41,5 @@ print(d)
 a = "Lokum Python"
 print(a[0]) # print L
 print(a[0]+a[1]+a[2]+a[3]+a[4]) # print Lokum
+print(a[0:4]) # print Lokum by slice syntax
 print(a[6:]) # print Python
