@@ -23,7 +23,7 @@ The folder of the examples: https://github.com/walidamriou/LokumPython/
 * __001 Getting Started__  
 - 001 Hello World :heavy_check_mark:	    
 - 002 Variables and Data types :heavy_check_mark: 
-- 003_Strings :heavy_check_mark:
+- 003 Strings :heavy_check_mark:
 - 003 Array  
 - 008 Slice  
 - 009 Map  
