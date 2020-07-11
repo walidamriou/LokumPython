@@ -25,7 +25,7 @@ This mark :heavy_check_mark: mean the example is available.
 - 003 Strings :heavy_check_mark:
 - 004 Operators :heavy_check_mark:
 - 005 Lists :heavy_check_mark:
-
+- 006 Tuples :heavy_check_mark:
 
 ### Website of the project:  
 https://LokumPython.walidamriou.com/
