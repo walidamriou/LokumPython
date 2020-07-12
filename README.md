@@ -24,9 +24,10 @@ This mark :heavy_check_mark: mean the example is available.
 - 002 Variables and Data types :heavy_check_mark: 
 - 003 Strings :heavy_check_mark:
 - 004 Operators :heavy_check_mark:
-- 005 Lists :heavy_check_mark:
-- 006 Tuples :heavy_check_mark:
-- 007 Sets :heavy_check_mark:
+- 005 Collection data types
+  - 001 Lists :heavy_check_mark:
+  - 002 Tuples :heavy_check_mark:
+  - 003 Sets :heavy_check_mark:
 
 ### Website of the project:  
 https://LokumPython.walidamriou.com/
