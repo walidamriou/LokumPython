@@ -24,10 +24,14 @@ This mark :heavy_check_mark: mean the example is available.
 - 002 Variables and Data types :heavy_check_mark: 
 - 003 Strings :heavy_check_mark:
 - 004 Operators :heavy_check_mark:
-- 005 Collection data types
+- 005 Collection data types :heavy_check_mark:
   - 001 Lists :heavy_check_mark:
   - 002 Tuples :heavy_check_mark:
   - 003 Sets :heavy_check_mark:
+  - 004 Dictionaries :heavy_check_mark:
+- 006 Control Statements
+ 
+ 
 
 ### Website of the project:  
 https://LokumPython.walidamriou.com/
