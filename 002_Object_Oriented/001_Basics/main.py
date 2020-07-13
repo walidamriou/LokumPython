@@ -49,3 +49,12 @@ print(' ')
 # The pass Statement
 class Algeria: # Algeria is empty class so we use pass statement  
   pass
+
+"""
+Notes:
+- ython deletes unneeded objects (built-in types or class instances) automatically to free 
+the memory space. The process by which Python periodically reclaims blocks of memory that no 
+longer are in use is termed Garbage Collection.
+
+
+"""
