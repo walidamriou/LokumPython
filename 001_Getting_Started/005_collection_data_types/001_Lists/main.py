@@ -2,7 +2,7 @@
  ******************************************************************** 
 
   LokumPython
-  To Learn Go Programming Language with small programs examples
+  To Learn Python Programming Language with small programs examples
   Project Website: LokumPython.walidamriou.com
   Github: https://github.com/walidamriou/LokumPython
 
