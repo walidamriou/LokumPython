@@ -30,6 +30,9 @@ This mark :heavy_check_mark: mean the example is available.
   - 003 Sets :heavy_check_mark:
   - 004 Dictionaries :heavy_check_mark:
 - 006 Control Statements
+  - 001 If statements :heavy_check_mark:
+  - 002 while Loop
+  - 003 For Loop
  
  
 
