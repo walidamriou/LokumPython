@@ -33,9 +33,10 @@ This mark :heavy_check_mark: mean the example is available.
   - 001 If statements :heavy_check_mark:
   - 002 while Loop :heavy_check_mark:
   - 003 For Loop :heavy_check_mark:  
-- 007 Functions
-  - 001 Functions
-  - 002 Lambda
+- 007 Functions :heavy_check_mark:
+  - 001 Functions :heavy_check_mark:
+  - 002 Lambda :heavy_check_mark:
+  * __002 Object Oriented__
  
  
 
