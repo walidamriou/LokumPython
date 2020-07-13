@@ -19,6 +19,7 @@ This mark :heavy_check_mark: mean the example is available.
 </p>
 
 #### Contents of the examples:
+
 * __001 Getting Started__  
 - 001 Hello World :heavy_check_mark:	    
 - 002 Variables and Data types :heavy_check_mark: 
@@ -36,7 +37,8 @@ This mark :heavy_check_mark: mean the example is available.
 - 007 Functions :heavy_check_mark:
   - 001 Functions :heavy_check_mark:
   - 002 Lambda :heavy_check_mark:
-  * __002 Object Oriented__
+  
+* __002 Object Oriented__
  
  
 
