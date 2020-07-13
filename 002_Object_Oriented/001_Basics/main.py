@@ -23,4 +23,29 @@ class print_info:
 a = print_info()
 print("My name is ",a.name)
 print("My age is ",a.age)
+print(' ')
 
+# The __init__() Function
+"""
+Use the __init__() function to assign values to object properties,
+or other operations that are necessary to do when the object is being created
+"""
+
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+b = Person("python", 26)
+b.age = 30
+print(b.name)
+print(b.age)
+del b.age # Delete Object Properties
+del b # Delete object
+# print(b.age) # don't use this because the object has deleted
+
+print(' ')
+
+# The pass Statement
+class Algeria: # Algeria is empty class so we use pass statement  
+  pass
