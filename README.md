@@ -37,7 +37,8 @@ This mark :heavy_check_mark: mean the example is available.
 - 007 Functions :heavy_check_mark:
   - 001 Functions :heavy_check_mark:
   - 002 Lambda :heavy_check_mark:
-  
+- 008 Modules
+
 * __002 Object Oriented__
  
  
