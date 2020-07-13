@@ -32,7 +32,10 @@ This mark :heavy_check_mark: mean the example is available.
 - 006 Control Statements
   - 001 If statements :heavy_check_mark:
   - 002 while Loop :heavy_check_mark:
-  - 003 For Loop
+  - 003 For Loop :heavy_check_mark:  
+- 007 Functions
+  - 001 Functions
+  - 002 Lambda
  
  
 
