@@ -42,10 +42,6 @@ This mark :heavy_check_mark: mean the example is available.
 ### Website of the project:  
 https://LokumPython.walidamriou.com/
 
-<p align="center">
-  <img width="50%" height="50%" src="https://github.com/walidamriou/LokumGoLang/blob/master/img/anim.png">
-</p>
-
 ### If you need any help or informations:
 :large_blue_circle:	 Facebook: https://www.facebook.com/walidamriou   
 :large_blue_circle:  Twitter: https://twitter.com/walidamriou    
