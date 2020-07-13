@@ -40,7 +40,8 @@ This mark :heavy_check_mark: mean the example is available.
 - 008 Modules :heavy_check_mark:
 
 * __002 Object Oriented__
- 
+- 001 Basics :heavy_check_mark:
+- 002 Methods :heavy_check_mark:
  
 
 ### Website of the project:  
