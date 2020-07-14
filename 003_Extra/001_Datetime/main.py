@@ -15,6 +15,10 @@
 """
 
 import datetime
+import time
+import calendar
+
+# Using datetime
 
 # Current Date and Time
 current_date_time = datetime.datetime.now()
@@ -29,7 +33,7 @@ print(current_date_time.strftime("%A")) # Convert date objects into readable str
 
 # Creating Date Objects
 custom_date = datetime.datetime(2020, 7, 14)
-print(custom_date_time)
+print(custom_date)
 
 """
 Note: the format codes use with strftime()
@@ -58,3 +62,22 @@ Note: the format codes use with strftime()
 %X	Local version of time	(17:41:00)	
 %%	A % character	(%)
 """
+
+# Using Time
+ticks = time.time()
+print ("Number of ticks since 12:00am, January 1, 1970 to now:", ticks)
+
+# we need to convert ticks to readable time & date
+
+# Getting current time
+localtime = time.localtime(time.time())
+print ("Local current time :", localtime)
+
+# Getting formatted time (readable format)
+localtime = time.asctime( time.localtime(time.time()) )
+print ("Local current time :", localtime)
+
+# Getting calendar for a month
+cal = calendar.month(2020, 7)
+print ("Here is the calendar:")
+print (cal)
