@@ -13,3 +13,21 @@
 
  ******************************************************************** 
 """
+
+from math import *
+
+# the full functions that math module support here: https://docs.python.org/3/library/math.html
+# There we just put two examples
+
+# ceil
+"""
+ Return the ceiling of x, the smallest integer greater than or equal to x. 
+ If x is not a float, delegates to x.__ceil__(), which should return an Integral value.
+"""
+a1=12.2
+print(ceil(a1))
+
+# absolute by fabs
+a2=-26
+print(fabs(a2))
+
