@@ -54,7 +54,8 @@ This mark :heavy_check_mark: mean the example is available.
 - 005 File handling :heavy_check_mark:
   - 001 Open and read files :heavy_check_mark:
   - 002 Write create and remove files :heavy_check_mark:
-  
+- 006 Try Except
+
 ### Website of the project:  
 https://LokumPython.walidamriou.com/
 
