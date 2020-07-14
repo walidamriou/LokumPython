@@ -49,7 +49,7 @@ This mark :heavy_check_mark: mean the example is available.
 * __003 Extra__
 - 001 Datetime :heavy_check_mark:
 - 002 Math :heavy_check_mark:
-- 003 JSON
+- 003 JSON :heavy_check_mark:
 
 ### Website of the project:  
 https://LokumPython.walidamriou.com/
