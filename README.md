@@ -50,7 +50,11 @@ This mark :heavy_check_mark: mean the example is available.
 - 001 Datetime :heavy_check_mark:
 - 002 Math :heavy_check_mark:
 - 003 JSON :heavy_check_mark:
-
+- 004 Input :heavy_check_mark:
+- 005 File handling :heavy_check_mark:
+  - 001 Open and read files :heavy_check_mark:
+  - 002 Write and create files :heavy_check_mark:
+  
 ### Website of the project:  
 https://LokumPython.walidamriou.com/
 
