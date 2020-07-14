@@ -46,7 +46,7 @@ This mark :heavy_check_mark: mean the example is available.
 - 002 Methods :heavy_check_mark:
 - 003 Inheritance :heavy_check_mark:
 
-* __003_Extra__
+* __003 Extra__
 - 001 Datetime :heavy_check_mark:
 
 ### Website of the project:  
