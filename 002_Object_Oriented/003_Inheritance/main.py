@@ -67,8 +67,12 @@ class Student5(Student4):
     def __init__(self,name,age,education_field):
         super().__init__(name,age,education_field)
     def print_studient_info(self) :
-        #print("The name of this student is", self.name,", the age is ", self.age,"The field of the education is",self.education_field)
-        print("The name of this student is", self.name,"The field of the education is",self.education_field)
+        """
+        Rememper to use self.person_name because Student4 use the person_name and person_age
+        as Properties from the parent_class (inherated it), and Student5 inherated all Properties
+        from Student4 so it inherated person_name, person_age and education_field  
+        """
+        print("The name of this student is", self.person_name,", the age is ", self.person_age,"The field of the education is",self.education_field)
 
 d = Student5("Olfa",25,"Mobile")
 d.print_studient_info()
