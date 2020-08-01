@@ -60,9 +60,10 @@ This mark :heavy_check_mark: mean the example is available.
 ### Website of the project:  
 https://LokumPython.walidamriou.com/
 
-### If you need any help or informations:
+### If you need any help or information:
 :large_blue_circle:	 Facebook: https://www.facebook.com/walidamriou   
 :large_blue_circle:  Twitter: https://twitter.com/walidamriou    
+:large_blue_circle:  Linkedin: https://www.linkedin.com/in/walidamriou
 :red_circle: Email:  contact [at] walidamriou [dot] com    
 
 ### Copyright CC 2020 Walid Amriou
